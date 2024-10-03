@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Raman Temre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h3 align="center">Skilled Front-end Developer with 4+ years of experience in developing and maintaining web applications.</h3>
+<h3 align="left">Skilled Front-end Developer with 4+ years of experience in developing and maintaining web applications.</h3>
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/ramantemre/">LinkedIn</a></h3>
 <p align="left">
