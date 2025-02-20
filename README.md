@@ -20,28 +20,34 @@
         <th>Official Website</th>
     </tr>
     <tr>
-        <td>Git</td>
-        <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></td>
-        <td>Version control system for tracking changes in source code</td>
-        <td><a href="https://git-scm.com/" target="_blank">git-scm.com</a></td>
+        <td>React</td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></td>
+        <td>JavaScript library for building user interfaces</td>
+        <td><a href="https://reactjs.org/" target="_blank">reactjs.org</a></td>
     </tr>
     <tr>
-        <td>Grafana</td>
-        <td><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" /></td>
-        <td>Open-source platform for monitoring and observability</td>
-        <td><a href="https://grafana.com" target="_blank">grafana.com</a></td>
+        <td>Redux</td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" /></td>
+        <td>State management library for JavaScript applications</td>
+        <td><a href="https://redux.js.org" target="_blank">redux.js.org</a></td>
     </tr>
     <tr>
-        <td>GraphQL</td>
-        <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" /></td>
-        <td>Data query language for APIs</td>
-        <td><a href="https://graphql.org" target="_blank">graphql.org</a></td>
-    </tr>
+        <td>TypeScript</td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></td>
+        <td>Strongly typed programming language that builds on JavaScript</td>
+        <td><a href="https://www.typescriptlang.org/" target="_blank">typescriptlang.org</a></td>
+    </tr>    
     <tr>
-        <td>GTK</td>
-        <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="GTK" width="40" height="40" /></td>
-        <td>Toolkit for creating graphical user interfaces</td>
-        <td><a href="https://www.gtk.org/" target="_blank">gtk.org</a></td>
+        <td>JavaScript</td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></td>
+        <td>Programming language for web development</td>
+        <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">developer.mozilla.org</a></td>
+    </tr>
+        <tr>
+        <td>Tailwind CSS</td>
+        <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></td>
+        <td>Utility-first CSS framework</td>
+        <td><a href="https://tailwindcss.com/" target="_blank">tailwindcss.com</a></td>
     </tr>
     <tr>
         <td>HTML5</td>
@@ -61,31 +67,37 @@
         <td>Style sheet language for describing web presentation</td>
         <td><a href="https://www.w3.org/Style/CSS/" target="_blank">w3.org/Style/CSS</a></td>
     </tr>
-    <tr>
-        <td>JavaScript</td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></td>
-        <td>Programming language for web development</td>
-        <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">developer.mozilla.org</a></td>
+        <tr>
+        <td>Figma</td>
+        <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></td>
+        <td>Cloud-based design tool for UI/UX collaboration</td>
+        <td><a href="https://www.figma.com/" target="_blank">figma.com</a></td>
     </tr>
     <tr>
-        <td>Jest</td>
-        <td><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" /></td>
-        <td>JavaScript testing framework</td>
-        <td><a href="https://jestjs.io" target="_blank">jestjs.io</a></td>
+        <td>Git</td>
+        <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></td>
+        <td>Version control system for tracking changes in source code</td>
+        <td><a href="https://git-scm.com/" target="_blank">git-scm.com</a></td>
     </tr>
     <tr>
-        <td>Linux</td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></td>
-        <td>Open-source operating system</td>
-        <td><a href="https://www.linux.org/" target="_blank">linux.org</a></td>
+        <td>GTK</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="GTK" width="40" height="40" /></td>
+        <td>Toolkit for creating graphical user interfaces</td>
+        <td><a href="https://www.gtk.org/" target="_blank">gtk.org</a></td>
     </tr>
     <tr>
-        <td>Mocha</td>
-        <td><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" width="40" height="40" /></td>
-        <td>JavaScript test framework</td>
-        <td><a href="https://mochajs.org" target="_blank">mochajs.org</a></td>
+        <td>Node.js</td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></td>
+        <td>JavaScript runtime environment</td>
+        <td><a href="https://nodejs.org" target="_blank">nodejs.org</a></td>
     </tr>
-    <tr>
+        <tr>
+        <td>Express</td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" /></td>
+        <td>Fast, unopinionated, and minimalist web framework for Node.js</td>
+        <td><a href="https://expressjs.com/" target="_blank">expressjs.com</a></td>
+    </tr>
+        <tr>
         <td>MongoDB</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></td>
         <td>NoSQL database</td>
@@ -98,28 +110,28 @@
         <td><a href="https://www.mysql.com/" target="_blank">mysql.com</a></td>
     </tr>
     <tr>
-        <td>Nginx</td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" /></td>
-        <td>Web server and reverse proxy</td>
-        <td><a href="https://www.nginx.com" target="_blank">nginx.com</a></td>
-    </tr>
-    <tr>
-        <td>Node.js</td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></td>
-        <td>JavaScript runtime environment</td>
-        <td><a href="https://nodejs.org" target="_blank">nodejs.org</a></td>
-    </tr>
-    <tr>
         <td>PostgreSQL</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></td>
         <td>Open-source relational database management system</td>
         <td><a href="https://www.postgresql.org" target="_blank">postgresql.org</a></td>
+    </tr>
+        <tr>
+        <td>GraphQL</td>
+        <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" /></td>
+        <td>Data query language for APIs</td>
+        <td><a href="https://graphql.org" target="_blank">graphql.org</a></td>
     </tr>
     <tr>
         <td>Postman</td>
         <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /></td>
         <td>API testing and development platform</td>
         <td><a href="https://postman.com" target="_blank">postman.com</a></td>
+    </tr>
+        <tr>
+        <td>Docker</td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></td>
+        <td>Platform for developing, shipping, and running applications in containers</td>
+        <td><a href="https://www.docker.com/" target="_blank">docker.com</a></td>
     </tr>
     <tr>
         <td>AWS</td>
@@ -133,29 +145,11 @@
         <td>Microsoft cloud computing service</td>
         <td><a href="https://azure.microsoft.com/" target="_blank">azure.microsoft.com</a></td>
     </tr>
-    <tr>
-        <td>React</td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></td>
-        <td>JavaScript library for building user interfaces</td>
-        <td><a href="https://reactjs.org/" target="_blank">reactjs.org</a></td>
-    </tr>
-    <tr>
-        <td>Redux</td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" /></td>
-        <td>State management library for JavaScript applications</td>
-        <td><a href="https://redux.js.org" target="_blank">redux.js.org</a></td>
-    </tr>
-    <tr>
-        <td>Tailwind CSS</td>
-        <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></td>
-        <td>Utility-first CSS framework</td>
-        <td><a href="https://tailwindcss.com/" target="_blank">tailwindcss.com</a></td>
-    </tr>
-    <tr>
-        <td>TypeScript</td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></td>
-        <td>Strongly typed programming language that builds on JavaScript</td>
-        <td><a href="https://www.typescriptlang.org/" target="_blank">typescriptlang.org</a></td>
+        <tr>
+        <td>Firebase</td>
+        <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /></td>
+        <td>Backend-as-a-Service platform by Google</td>
+        <td><a href="https://firebase.google.com/" target="_blank">firebase.google.com</a></td>
     </tr>
     <tr>
         <td>Cypress</td>
@@ -163,35 +157,41 @@
         <td>JavaScript testing framework for web applications</td>
         <td><a href="https://www.cypress.io/" target="_blank">cypress.io</a></td>
     </tr>
-    <tr>
-        <td>Docker</td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></td>
-        <td>Platform for developing, shipping, and running applications in containers</td>
-        <td><a href="https://www.docker.com/" target="_blank">docker.com</a></td>
+        <tr>
+        <td>Grafana</td>
+        <td><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" /></td>
+        <td>Open-source platform for monitoring and observability</td>
+        <td><a href="https://grafana.com" target="_blank">grafana.com</a></td>
     </tr>
-    <tr>
+        <tr>
+        <td>Jest</td>
+        <td><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" /></td>
+        <td>JavaScript testing framework</td>
+        <td><a href="https://jestjs.io" target="_blank">jestjs.io</a></td>
+    </tr>
+        <tr>
         <td>Electron</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40" /></td>
         <td>Framework for building cross-platform desktop applications with web technologies</td>
         <td><a href="https://www.electronjs.org/" target="_blank">electronjs.org</a></td>
     </tr>
     <tr>
-        <td>Express</td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" /></td>
-        <td>Fast, unopinionated, and minimalist web framework for Node.js</td>
-        <td><a href="https://expressjs.com/" target="_blank">expressjs.com</a></td>
+        <td>Mocha</td>
+        <td><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" width="40" height="40" /></td>
+        <td>JavaScript test framework</td>
+        <td><a href="https://mochajs.org" target="_blank">mochajs.org</a></td>
     </tr>
     <tr>
-        <td>Figma</td>
-        <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></td>
-        <td>Cloud-based design tool for UI/UX collaboration</td>
-        <td><a href="https://www.figma.com/" target="_blank">figma.com</a></td>
+        <td>Nginx</td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" /></td>
+        <td>Web server and reverse proxy</td>
+        <td><a href="https://www.nginx.com" target="_blank">nginx.com</a></td>
     </tr>
     <tr>
-        <td>Firebase</td>
-        <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /></td>
-        <td>Backend-as-a-Service platform by Google</td>
-        <td><a href="https://firebase.google.com/" target="_blank">firebase.google.com</a></td>
+        <td>Linux</td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></td>
+        <td>Open-source operating system</td>
+        <td><a href="https://www.linux.org/" target="_blank">linux.org</a></td>
     </tr>
 </table>
 
